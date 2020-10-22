@@ -7,4 +7,4 @@ At the moment I am working on
 
 You can hop onto our discord if you want to know more
 
-![UOStudio on Discord](https://github.com/deccer/UOStudio/blob/main/assets/github/repo/discord-image.png?raw=true)
+[![UOStudio on Discord](https://github.com/deccer/UOStudio/blob/main/assets/github/repo/discord-image.png?raw=true)](https://discord.gg/tYeZh3f)
